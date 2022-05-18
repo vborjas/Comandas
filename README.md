@@ -1,2 +1,2 @@
-# Comandas
-app con comandas -pos
+# comandas
+sistema de comandas en react
